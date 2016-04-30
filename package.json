@@ -1,0 +1,27 @@
+{
+  "name": "canada-points-ui",
+  "version": "0.1.0",
+  "description": "The UI for the upcoming Canada Points project",
+  "main": "",
+  "scripts": {
+    "deploy": "surge ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clayreimann/canada-points-ui.git"
+  },
+  "keywords": [
+    "points",
+    "teams",
+    "Canada Points"
+  ],
+  "author": "Clay Reimann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clayreimann/canada-points-ui/issues"
+  },
+  "homepage": "https://canadapoints.co",
+  "devDependencies": {
+    "surge": "^0.17.7"
+  }
+}
